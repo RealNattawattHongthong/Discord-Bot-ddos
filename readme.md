@@ -1,9 +1,8 @@
-install 
-pip install discord
-pip install paramiko
+install   
 
-run 
-python main.py
+```pip install discord```<br>```pip install paramiko```<br>
+run<br>
+```python main.py```<br>
 
-Make By:
+Make By:<br>
 RealNattawatt ("OREO YOUNG MAN")
